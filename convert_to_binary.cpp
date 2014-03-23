@@ -14,9 +14,6 @@ int main(int argc, char* argv[]){
 
 	 int num = atoi(argv[1]);
 
-	//cout <<"Enter a integer "<<endl;
-	//cin >> num;
-
 	cout <<"Binary number: "<<endl;
 
 	convert_to_binary(num);
